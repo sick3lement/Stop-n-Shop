@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/favouritestool"
+        android:orderInCategory="101"
+        android:icon="@drawable/favourites"
+        android:title="Favourites"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/carttool"
+        android:orderInCategory="100"
+        android:icon="@drawable/cart"
+        android:title="Cart"
+        app:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_men"
+            android:icon="@drawable/manicon"
+            android:title="Men" />
+        <item
+            android:id="@+id/nav_women"
+            android:icon="@drawable/womanicon"
+            android:title="Women" />
+        <item
+            android:id="@+id/nav_children"
+            android:icon="@drawable/childrenicon"
+            android:title="Children" />
+
+        <item
+            android:id="@+id/carticon"
+            android:icon="@drawable/cart"
+            android:title="Cart" />
+        <item
+            android:id="@+id/favouritesicon"
+            android:icon="@drawable/favouritesw"
+            android:title="Favourites" />
+        <item
+            android:id="@+id/contact1"
+            android:icon="@drawable/contact"
+            android:title="Contact" />
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Logout" />
+       </group>
+
+</menu>
