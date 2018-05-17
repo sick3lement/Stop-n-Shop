@@ -1,2 +1,2 @@
 # Stop-n-Shop
- Android application for shopping
+ E-Commerce Android application 
