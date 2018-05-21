@@ -1,19 +1,16 @@
 # Stop-n-Shop
  E-Commerce Android application 
-NavigationView
-CoordinatorLayout
-AppBarLayout
-CollapsingToolbarLayout
-NestedScrollView
-TabLayout
-FloatingActionButton
-SnackBar
-SwipeRefreshLayout
-RecyclerView
-CardView
-TextInputLayout
-BottomSheetDialog
-SharedElementTransitions
-BottomNavigationView
-Adaptive icon
-App shortcuts
+It covers many material design components, such as:**  
+- NavigationView  
+- CoordinatorLayout  
+- AppBarLayout  
+- CollapsingToolbarLayout  
+- NestedScrollView  
+- TabLayout  
+- FloatingActionButton  
+- SnackBar  
+- SwipeRefreshLayout  
+- RecyclerView  
+- CardView  
+- TextInputLayout  
+
