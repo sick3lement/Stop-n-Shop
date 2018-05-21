@@ -10,7 +10,8 @@ It covers many material design components, such as:
 - SwipeRefreshLayout  
 - RecyclerView  
 - CardView  
-and contains features like :
+
+ and contains features like :
 - Animated opening
 - Login/Signup
 - Google Sign in
