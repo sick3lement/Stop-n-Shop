@@ -14,3 +14,4 @@ It covers many material design components, such as:**
 - CardView  
 - TextInputLayout  
 
+![image](https://github.com/Eajy/MaterialDesignDemo/blob/master/pictures/1.png)
